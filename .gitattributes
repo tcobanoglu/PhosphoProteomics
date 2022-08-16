@@ -1,0 +1,6 @@
+akid_maxquant_experiments filter=lfs diff=lfs merge=lfs -text
+ID_conversion filter=lfs diff=lfs merge=lfs -text
+inka-new-gbm filter=lfs diff=lfs merge=lfs -text
+inka-new-4cell filter=lfs diff=lfs merge=lfs -text
+inka-new-U2OS filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
