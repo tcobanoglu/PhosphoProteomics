@@ -4,3 +4,11 @@ inka-new-gbm filter=lfs diff=lfs merge=lfs -text
 inka-new-4cell filter=lfs diff=lfs merge=lfs -text
 inka-new-U2OS filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+4cell_lines_dataset.zip filter=lfs diff=lfs merge=lfs -text
+akid_inputs.zip filter=lfs diff=lfs merge=lfs -text
+akid_results.zip filter=lfs diff=lfs merge=lfs -text
+curren_inka_results.zip filter=lfs diff=lfs merge=lfs -text
+gbm_dataset.zip filter=lfs diff=lfs merge=lfs -text
+inka_current.zip filter=lfs diff=lfs merge=lfs -text
+OncoProteomics_Dataset.zip filter=lfs diff=lfs merge=lfs -text
+U2OS_dataset.zip filter=lfs diff=lfs merge=lfs -text
